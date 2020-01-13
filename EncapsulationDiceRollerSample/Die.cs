@@ -51,8 +51,6 @@ namespace EncapsulationDiceRollerSample
         }
         */
 
-
-
         /// <summary>
         /// Saving the roll
         /// </summary>
